@@ -1,0 +1,46 @@
+body {
+    text-align: center;  
+}
+
+.image {
+    display: block;
+    margin: auto;    
+}
+
+.header {
+    background-color:rgb(236, 236, 236);
+    width: 1330px;
+    margin: auto auto 2px ;
+}
+
+.section1 {
+    width: 300px;
+    margin: auto;  
+}
+
+.article {
+    width: auto;
+    display: flex;
+    margin:  auto 5%;    
+}
+
+.first {
+    padding: 10px;
+    background-color:#7EE5DA ;
+    width: 40%;
+    margin:1px;
+}
+
+.second {
+    background-color: #70CCC2;
+    width: 25%;
+    margin:1px;
+    font-size: 13px;
+    padding: 10px;
+}
+
+.third {
+    background-color: #62B3AA;
+    width: 50%;
+    margin:1px;
+}

@@ -1,0 +1,1 @@
+# Patika Ödevlerinin Bulunduğu Repo

@@ -1,1 +1,1 @@
-# Patika CSS Ödevlerinin Bulunduğu Repo
+# Patika Front-End Ödevlerinin Bulunduğu Repo

@@ -1,1 +1,0 @@
-# Patika Front-End Ödevlerinin Bulunduğu Repo

@@ -1,0 +1,1 @@
+# Patika CSS Başlangıç Ödevlerinin Bulunduğu Repo

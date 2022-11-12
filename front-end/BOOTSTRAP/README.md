@@ -1,0 +1,1 @@
+# Patika Bootstrap Ödevlerinin Bulunduğu Klasör

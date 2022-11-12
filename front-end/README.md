@@ -1,0 +1,1 @@
+# Patika Başlangıç Front End Ödevlerinin Bulunduğu Klasör

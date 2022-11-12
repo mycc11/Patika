@@ -1,1 +1,1 @@
-# Patika CSS Başlangıç Ödevlerinin Bulunduğu Repo
+# Patika CSS Başlangıç Ödevlerinin Bulunduğu Klasör
